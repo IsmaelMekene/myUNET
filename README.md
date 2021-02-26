@@ -1,5 +1,5 @@
 # myUNET
-
+In this repository, we intend to implement the Unet model on a custom dataset, in order to detect object.
 
 # Implementation of deep learning framework -- Unet, using Keras
 
